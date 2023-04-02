@@ -28,7 +28,7 @@ including web development, data science, artificial intelligence, and more
 the language and its many libraries. This means that there is a wealth of resources and support
 available for those who want to learn and use Python.
 
-- **Open source:** Python is open-source software, which means that it is free to use and
+- **Open source:** Python is an open-source software, which means that it is free to use and
 distribute. This makes it an ideal choice for those who want to create and share their own
 projects without incurring any costs
 
