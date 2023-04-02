@@ -135,5 +135,3 @@ Here are some helpful resources for learning more about Python:
 learning the language.
 - [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - A free online book that provides a comprehensive
 introduction
-
-Lorem ipsum dolor sit amet.
