@@ -102,6 +102,7 @@ When the code is run, it will print "Hello, John"
 
 Python has a variety of built-in functions that can be used to perform a wide range of tasks, such
 as:
+
 | **Function**| **Description**                                                            |
 | ------------| ---------------------------------------------------------------------------|
 | `print()`   | The *print* function is used to display output to the console.             |
